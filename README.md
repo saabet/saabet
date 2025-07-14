@@ -25,10 +25,10 @@ I'm Sabet Maulana, a passionate software developer and tech enthusiast. With ove
 
 ### 🌐 Socials
 <div id="badges">
-  <a href="https://www.linkedin.com/in/sabet-maulana/">
+  <a href="https://www.linkedin.com/in/sabet-maulana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/saabet.m/">
+  <a href="https://www.instagram.com/saabet.m/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
