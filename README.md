@@ -17,10 +17,11 @@ I'm Sabet Maulana, a passionate software developer and tech enthusiast. With ove
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=saabet&show_icons=true&theme=tokyonight" alt="saabet" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saabet&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saabet&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saabet&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ### 🌐 Socials
