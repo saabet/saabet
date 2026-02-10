@@ -29,12 +29,12 @@ I'm Sabet Maulana, a passionate software developer and tech enthusiast. With ove
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-vercel-gkfcxshzt-saabets-projects.vercel.app/api?username=saabet&theme=tokyonight&show_icons=true" alt="saabet" />
+  <img src="https://github-readme-stats-vercel-eosin.vercel.app/api?username=saabet&theme=tokyonight&show_icons=true" alt="saabet" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=saabet&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-vercel-gkfcxshzt-saabets-projects.vercel.app/api/top-langs/?username=saabet&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-vercel-eosin.vercel.app/api/top-langs/?username=saabet&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ### 🌐 Socials
