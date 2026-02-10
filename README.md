@@ -27,20 +27,25 @@ I'm Sabet Maulana, a passionate software developer and tech enthusiast. With ove
 </p>
 
 ### 📈 GitHub Stats
-  <table>
+
+  <table role="presentation">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats-vercel-eosin.vercel.app/api?username=saabet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" />
     </td>
-    <td>
-      <img src="https://github-readme-stats-vercel-eosin.vercel.app/api/top-langs/?username=saabet&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saabet&theme=tokyonight&utcOffset=7" />
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://streak-stats.demolab.com?user=saabet&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-vercel-eosin.vercel.app/api/top-langs/?username=saabet&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
-
 
 ### 🌐 Socials
 <div id="badges">
