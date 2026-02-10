@@ -5,12 +5,25 @@ I'm Sabet Maulana, a passionate software developer and tech enthusiast. With ove
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <!-- Language -->
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
+
+  <!-- Backend / Framework -->
   <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" />
-  <img src="https://img.shields.io/badge/Framework-Hapi.js-informational?style=flat&logo=node.js&logoColor=white&color=0066cc" />
+  <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E" />
+  <img src="https://img.shields.io/badge/Framework-HapiJS-informational?style=flat&logo=javascript&logoColor=white&color=FF4088" />
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1" />
   <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57" />
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
+
+  <!-- OS -->
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=black&color=FCC624" />
 </p>
 
 ### 📈 GitHub Stats
