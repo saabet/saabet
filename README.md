@@ -14,9 +14,15 @@ I'm Sabet Maulana, a passionate software developer and tech enthusiast. With ove
   <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E" />
   <img src="https://img.shields.io/badge/Framework-HapiJS-informational?style=flat&logo=javascript&logoColor=white&color=FF4088" />
 
+  <!-- Queue -->
+  <img src="https://img.shields.io/badge/Queue-BullMQ-informational?style=flat&logo=redis&logoColor=white&color=DC382D" />
+
   <!-- Database -->
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1" />
   <img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57" />
+
+  <!-- ORM -->
+  <img src="https://img.shields.io/badge/ORM-Drizzle-informational?style=flat&logo=drizzle&logoColor=white&color=C5F74F" />
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
