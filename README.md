@@ -28,6 +28,10 @@ I'm Sabet Maulana, a passionate software developer and tech enthusiast. With ove
   <!-- ORM -->
   <img src="https://img.shields.io/badge/ORM-Drizzle-informational?style=flat&logo=drizzle&logoColor=white&color=C5F74F" />
 
+   <!-- DevOps -->
+  <img src="https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20Compose-informational?style=flat&logo=docker&logoColor=white&color=2496ED" />
+
   <!-- Tools -->
   <img src="https://img.shields.io/badge/VersionControl-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
 
