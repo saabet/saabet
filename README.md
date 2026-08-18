@@ -8,11 +8,15 @@ I'm Sabet Maulana, a passionate software developer and tech enthusiast. With ove
   <!-- Language -->
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6" />
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
 
   <!-- Backend / Framework -->
   <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" />
   <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E" />
   <img src="https://img.shields.io/badge/Framework-HapiJS-informational?style=flat&logo=javascript&logoColor=white&color=FF4088" />
+
+  <!-- ERP -->
+  <img src="https://img.shields.io/badge/ERP-Odoo-informational?style=flat&logo=odoo&logoColor=white&color=714B67" />
 
   <!-- Queue -->
   <img src="https://img.shields.io/badge/Queue-BullMQ-informational?style=flat&logo=redis&logoColor=white&color=DC382D" />
